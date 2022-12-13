@@ -7,13 +7,8 @@
         background-color: dodgerblue;
         color: white;
         text-align: center;">
-
-
     <div class="container-fluid text-center text-md-left">
-
-
-        <div class="row">
-            
+        <div class="row">            
             <div class="col">
             <br>
             <h5 style="text-align: center">Scandiweb test assignment</h5>

@@ -22,7 +22,7 @@
                             $typeNameVal = $type($size,$weight,$height,$width,$length);
                         ?>
                                 <div class="gallery" style="align:center">                                    
-                                &nbsp;<input type="checkbox" name="checkId[]" value="<?php echo $id;?>">                                    
+                                &nbsp;<input class="delete-checkbox" type="checkbox" name="checkId[]" value="<?php echo $id;?>">                                    
                                     <p style="text-align:center"><?php echo $sku;?><br>
                                     <?php echo $name;?><br>
                                     <?php echo $price;?><br>
